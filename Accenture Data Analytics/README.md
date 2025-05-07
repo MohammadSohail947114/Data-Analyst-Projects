@@ -4,7 +4,7 @@
 ### Dashboard [Click Here for Interactive Version](https://app.powerbi.com/view?r=eyJrIjoiN2UxNGZmYzEtMzNlYS00YTNhLTlkMGQtOTAwZWI5YTZmMWI1IiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9&pageName=ReportSection)
 
 
-![logo]()
+![logo](https://github.com/MohammadSohail947114/Data-Analyst-Projects/blob/3f5c329cc284762a2454e98d91bc99797bf843ad/Accenture%20Data%20Analytics/Accenture%20.gif)
 
 
  
