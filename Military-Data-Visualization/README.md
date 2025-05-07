@@ -6,7 +6,7 @@
 ![logo](https://github.com/Sohail00786/Power-BI-projects/blob/9a3a269cec63c887988c7565f63e1e29144fe824/Military-Data-Visualization/32EBCFCF-3DF5-4F66-883C-9E812D68B12B.jpeg)
 
 ### Military Information : [Click Here for Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWM0YjI4YzgtZjllZS00YzczLWEwYzEtYWZhZWUwYzgzMjlkIiwidCI6IjAwMTM5NDg3LWRkNDUtNDQ2MS04OWU0LWViZWI1NzgxYmRlOCJ9&pageName=ReportSectione90641e03553077b60d4)
-![Logo](https://github.com/Sohail00786/Microsoft-Power-BI-portfolio/blob/9789faee478b742400a8ec20b7c2916356fd1433/Military-Data-Visualization/Military%20dashboard%20.gif)
+![Logo](https://github.com/MohammadSohail947114/Data-Analyst-Projects/blob/68c99ad2d252dc1d5be5ba0cc190446745d4d965/Military-Data-Visualization/Military%20dashboard%20.gif)
 
 ### Web Scraping Data Source :
 
